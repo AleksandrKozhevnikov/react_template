@@ -1,0 +1,16 @@
+.appLink {
+    color: var(--bg-color);
+    text-decoration: none;
+    font-weight: 600;
+    :hover {
+        cursor: pointer;
+    }
+}
+
+.default {
+    color: var(--bg-color)
+}
+
+.dark {
+    color: var(--inverted-bg-color)
+}
